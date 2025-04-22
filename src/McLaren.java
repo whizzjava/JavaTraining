@@ -1,2 +1,2 @@
-public class McLaren extends Car {
+abstract class McLaren extends Car {
 }
