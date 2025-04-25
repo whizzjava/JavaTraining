@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="&quot;added Spirit file&quot;">
-      <change afterPath="$PROJECT_DIR$/src/assignments/akhil/FirstNonRepeatingCharInStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/akhil/SecondLargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="&quot;the SecondLargestNumber &quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignments/akhil/FirstNonRepeatingCharInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignments/akhil/FirstNonRepeatingCharInStr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Akhil Reddy/Documents/GIT/GITHUB/JavaTraining&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecondLargestNumber">
+  <component name="RunManager" selected="Application.FirstNonRepeatingCharInStr">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="JavaTraining" />
@@ -63,9 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDemo" />
+    <configuration name="FirstNonRepeatingCharInStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.akhil.FirstNonRepeatingCharInStr" />
       <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.akhil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstNonRepeatingCharInStr" />
         <item itemvalue="Application.SecondLargestNumber" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.PDemo1" />
         <item itemvalue="Application.DSDemo" />
-        <item itemvalue="Application.PDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +113,14 @@
       <option name="presentableId" value="Default" />
       <updated>1742186591033</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;the SecondLargestNumber &quot;">
+      <created>1745541725332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745541725332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +133,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;the SecondLargestNumber &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;the SecondLargestNumber &quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
