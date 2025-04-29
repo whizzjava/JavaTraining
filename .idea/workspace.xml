@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="&quot;the FirstNonRepeatingCharInStr &quot;">
-      <change afterPath="$PROJECT_DIR$/src/assignments/akhil/PascalsTriangle.java" afterDir="false" />
+    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="add program sum of numbers">
+      <change afterPath="$PROJECT_DIR$/src/assignments/lohith/Vowel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/DSDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/DSDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/PDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/PDemo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,29 +33,44 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lohithreddynukala"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/whizzjava/JavaTraining.git",
+    "accountId": "f5e619ef-7721-44d3-a49a-4e6935b09889"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2uQhECixhB6U6DZE3Mx6WWWz1lX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Akhil Reddy/Documents/GIT/GITHUB/JavaTraining&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstNonRepeatingCharInStr.executor": "Run",
+    "Application.Vowel.executor": "Run",
+    "Application.VowelorConsonant (1).executor": "Run",
+    "Application.VowelorConsonant.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Akhil Reddy/Documents/GIT/GITHUB/JavaTraining"
   }
-}</component>
-  <component name="RunManager" selected="Application.PascalsTriangle">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="JavaTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager">
     <configuration name="FirstNonRepeatingCharInStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.akhil.FirstNonRepeatingCharInStr" />
       <module name="JavaTraining" />
@@ -63,13 +80,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDemo1" />
-      <module name="JavaTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.FirstNonRepeatingCharInStr" />
+        <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.SecondLargestNumber" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.PDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745552527751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add program sum of numbers">
+      <option name="closed" value="true" />
+      <created>1745585238822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745585238822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +173,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;the SecondLargestNumber &quot;" />
     <MESSAGE value="&quot;the FirstNonRepeatingCharInStr &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;the FirstNonRepeatingCharInStr &quot;" />
+    <MESSAGE value="add program sum of numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add program sum of numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
