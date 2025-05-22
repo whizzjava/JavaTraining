@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="add program sum of numbers">
-      <change afterPath="$PROJECT_DIR$/src/assignments/lohith/ConcatenateTwoArrays.java" afterDir="false" />
+    <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/assignments/akhil/FirstNonRepeatingCharInStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/assignments/akhil/FirstNonRepeatingCharInStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/assignments/akhil/SecondLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/assignments/akhil/SecondLargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/DSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Ferrari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/InheritanceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/META-INF/javaFSE.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/McLaren.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Mercedes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/PDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/PDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaFSE/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +56,21 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "lohithreddynukala"
+    "assignee": "whizzconsultant225"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/whizzjava/JavaTraining.git",
-    "accountId": "f5e619ef-7721-44d3-a49a-4e6935b09889"
+    "accountId": "803f62b3-b66d-4464-84d8-e0f587a7f00f"
   }
 }]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "customColor": "",
+  "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2uQhECixhB6U6DZE3Mx6WWWz1lX" />
   <component name="ProjectViewState">
@@ -55,12 +79,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.FirstNonRepeatingCharInStr.executor": "Run",
-    "Application.SimpleConcatenateArrays.executor": "Run",
-    "Application.Vowel.executor": "Run",
-    "Application.VowelOrConsonant.executor": "Run",
-    "Application.VowelorConsonant (1).executor": "Run",
-    "Application.VowelorConsonant.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -69,16 +87,10 @@
     "last_opened_file_path": "C:/Users/Akhil Reddy/Documents/GIT/GITHUB/JavaTraining"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConcatenateTwoArrays">
-    <configuration name="ConcatenateTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.lohith.ConcatenateTwoArrays" />
+  <component name="RunManager" selected="Application.PascalsTriangle">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.lohith.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,12 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleConcatenateArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.lohith.SimpleConcatenateArrays" />
+    <configuration name="PDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDemo1" />
+      <module name="JavaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.akhil.PascalsTriangle" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.lohith.*" />
+          <option name="PATTERN" value="assignments.akhil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.lohith.Vowel" />
+    <configuration name="SecondLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.akhil.SecondLargestNumber" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.lohith.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.lohith.VowelOrConsonant" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.lohith.*" />
+          <option name="PATTERN" value="assignments.akhil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConcatenateTwoArrays" />
-        <item itemvalue="Application.SimpleConcatenateArrays" />
-        <item itemvalue="Application.VowelOrConsonant" />
-        <item itemvalue="Application.Vowel" />
+        <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.FirstNonRepeatingCharInStr" />
+        <item itemvalue="Application.SecondLargestNumber" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.PDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,31 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745552527751</updated>
     </task>
-    <task id="LOCAL-00004" summary="add program sum of numbers">
+    <task id="LOCAL-00004" summary="update">
       <option name="closed" value="true" />
-      <created>1745585238822</created>
+      <created>1747913313409</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1745585238822</updated>
+      <updated>1747913313409</updated>
     </task>
-    <task id="LOCAL-00005" summary="add program sum of numbers">
-      <option name="closed" value="true" />
-      <created>1745900137105</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1745900137105</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add program sum of numbers">
-      <option name="closed" value="true" />
-      <created>1745900667165</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1745900667165</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,8 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;the SecondLargestNumber &quot;" />
     <MESSAGE value="&quot;the FirstNonRepeatingCharInStr &quot;" />
-    <MESSAGE value="add program sum of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add program sum of numbers" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
