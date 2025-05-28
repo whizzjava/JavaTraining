@@ -1,4 +1,4 @@
-package collections;
+package collections.lambda;
 
 import java.util.function.Function;
 
