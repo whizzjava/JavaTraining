@@ -1,11 +1,12 @@
 package collections;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class MapExample {
     public static void main(String[] args) {
         // Creating a HashMap to store country names and their codes
-        HashMap<String, String> countryCodes = new HashMap<>();
+        Map<String, String> countryCodes = new HashMap<>();
 
         // Adding key-value pairs to the Map
         countryCodes.put("USA", "US");

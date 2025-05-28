@@ -1,11 +1,13 @@
 package collections;
 
+import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.List;
 
-public class ArrayListExample {
+public class ArrayListExample  implements Serializable {
     public static void main(String[] args) {
         // Creating an ArrayList of Strings
-        ArrayList<String> fruits = new ArrayList<>();
+        List<String> fruits = new ArrayList<>();
 
         // Adding elements to the ArrayList
         fruits.add("Apple");
