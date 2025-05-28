@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5043143-9280-4854-9f3e-aef8948a3642" name="Default Changelist" comment="update new programs">
-      <change afterPath="$PROJECT_DIR$/src/collections/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/EmployeeSortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/LambdaArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/MarkerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/PredicateLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/StreamLambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/StreamWithoutLambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/WithoutStreamsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/CollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/BiFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ConsumerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/LambdaArrayListEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/PredicateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/PredicateLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/StreamLambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamLambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/StreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/StreamWithoutLambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamWithoutLambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/StreamsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/StreamsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/SupplierExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/WithoutStreamsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/streams/WithoutStreamsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,7 @@
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,7 +102,7 @@
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="LambdaArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.LambdaArrayListEx" />
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaArrayListEx" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,7 +128,7 @@
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.PredicateExample" />
+      <option name="MAIN_CLASS_NAME" value="lambda.PredicateExample" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747915788341</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update new programs">
+      <option name="closed" value="true" />
+      <created>1748445175325</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748445175325</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
