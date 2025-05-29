@@ -58,13 +58,15 @@ public class EmployeeSortExample {
         employees.add(new Employee("Alice", 28, 100));
         employees.add(new Employee("Charlie", 35, 105));
 
+       // Collections.sort(employees);
+
         System.out.println("Before sorting:");
         for (Employee e : employees) {
             System.out.println(e);
         }
 
-        Collections.sort(employees, new EmployeeComparatorAge());
-        Collections.sort(employees, new EmployeeComparatorEmpNo());
+       //Collections.sort(employees, new EmployeeComparatorAge());
+       Collections.sort(employees, new EmployeeComparatorEmpNo());
 
         System.out.println("\nAfter sorting:");
         for (Employee e : employees) {

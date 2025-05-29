@@ -37,7 +37,7 @@ class Person implements Comparable<Person> {
 
     @Override
     public String toString() {
-        return name + " (" + age + ")";
+        return name + " (" + age + ")" + hashCode();
     }
 }
 
@@ -47,7 +47,7 @@ public class CollectionExample {
         HashSet<Person> personSet = new HashSet<>();
         personSet.add(new Person("Alice", 25));
         personSet.add(new Person("Bob", 30));
-        personSet.add(new Person("Alice", 32)); // Duplicate (ignored due to equals & hashCode)
+        personSet.add(new Person("Alice", 25)); // Duplicate (ignored due to equals & hashCode)
 
         System.out.println("HashSet (Unique Objects): " + personSet);
 
