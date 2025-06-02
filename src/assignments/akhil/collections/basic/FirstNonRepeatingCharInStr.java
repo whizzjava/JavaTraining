@@ -1,4 +1,4 @@
-package assignments.akhil;
+package assignments.akhil.collections.basic;
 
 import java.util.Scanner;
 
